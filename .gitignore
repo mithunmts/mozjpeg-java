@@ -1,0 +1,32 @@
+# Build directories
+build/
+mozjpeg-build/
+mozjpeg-linux/
+install/
+target/
+native/mozjpeg/build-*/
+
+# Compiled Java class files
+*.class
+
+# Native build artifacts (intermediate objects)
+*.o
+*.obj
+*.lib
+*.exp
+*.a
+
+# IDE directories
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+*.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
